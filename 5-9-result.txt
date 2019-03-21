@@ -1,0 +1,1 @@
+epoch 1 train_loss 2.254 train_acc 0.172 test_acc 0.113 time 304.0 epoch 2 train_loss 1.347 train_acc 0.500 test_acc 0.777 time 279.7 epoch 3 train_loss 0.552 train_acc 0.796 test_acc 0.847 time 277.6 epoch 4 train_loss 0.409 train_acc 0.846 test_acc 0.868 time 275.8 epoch 5 train_loss 0.351 train_acc 0.867 test_acc 0.874 time 275.7 

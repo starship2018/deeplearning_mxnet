@@ -1,0 +1,1 @@
+epoch 0 loss 2.316 train_acc 0.110 test_acc 0.098 time 7.6
