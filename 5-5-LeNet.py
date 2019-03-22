@@ -76,6 +76,7 @@ def train_ch5():
         for X, y in train_iter:
             X = X.as_in_context(mx.gpu())
             y = y.as_in_context(mx.gpu())
+            print(X.shape, y.shape)
             with autograd.record():
                 y_hat = net(X)
                 l = loss(y_hat, y)

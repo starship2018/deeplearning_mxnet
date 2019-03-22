@@ -1,0 +1,5 @@
+epoch 1 loss 1.3697 ,train_acc 0.5121,test_acc 0.627 time 237.6
+epoch 2 loss 0.8151 ,train_acc 0.7148,test_acc 0.575 time 228.9
+epoch 3 loss 0.5994 ,train_acc 0.7901,test_acc 0.798 time 231.7
+epoch 4 loss 0.4769 ,train_acc 0.8336,test_acc 0.812 time 252.6
+epoch 5 loss 0.3886 ,train_acc 0.8647,test_acc 0.792 time 257.7
