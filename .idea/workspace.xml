@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34fa8ade-4d37-4b1e-86da-3a3cf24a7fc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-5-LeNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/5-5-LeNet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5-5-result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/5-5-result.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +25,7 @@
     <SUITE FILE_PATH="coverage/mxnet_gpu$7_3_MiniBatchStochasticGradientDescent.coverage" NAME="7-3-MiniBatchStochasticGradientDescent Coverage Results" MODIFIED="1553002566179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mxnet_gpu$5_7_VGG.coverage" NAME="5-7-VGG Coverage Results" MODIFIED="1552463660205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mxnet_gpu$test_write.coverage" NAME="test-write Coverage Results" MODIFIED="1552464654972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mxnet_gpu$9_3_TargetDetectionAndBoundingBox.coverage" NAME="9-3-TargetDetectionAndBoundingBox Coverage Results" MODIFIED="1553500146700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mxnet_gpu$7_4_Momentum.coverage" NAME="7-4-Momentum Coverage Results" MODIFIED="1552992268874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mxnet_gpu$4_6_ComputeWithNvidia.coverage" NAME="4-6-ComputeWithNvidia Coverage Results" MODIFIED="1552042326107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/mxnet_gpu$5_12_DenseNet.coverage" NAME="5-12-DenseNet Coverage Results" MODIFIED="1552565550143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -72,32 +71,32 @@
     <session id="645561955">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="9" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="993" />
           <entry key="dummy" value="1" />
-          <entry key="py" value="57608" />
+          <entry key="py" value="58187" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="58601" />
+          <entry key="Python" value="59180" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="dat" value="3" />
           <entry key="jpg" value="1" />
-          <entry key="py" value="103" />
+          <entry key="py" value="104" />
           <entry key="txt" value="18" />
         </counts>
       </usages-collector>
@@ -105,7 +104,7 @@
         <counts>
           <entry key="Image" value="1" />
           <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="103" />
+          <entry key="Python" value="104" />
         </counts>
       </usages-collector>
     </session>
@@ -115,60 +114,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-1-ImageAugmentation.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/9-3-TargetDetectionAndBoundingBox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="174" column="54" lean-forward="true" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
+            <state relative-caret-position="396">
+              <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
-                <marker date="1553262566884" expanded="true" signature="349:354" ph="..." />
-                <marker date="1553262566884" expanded="true" signature="1908:1986" ph="..." />
-                <marker date="1553262566884" expanded="true" signature="2024:2029" ph="..." />
-                <marker date="1553262566884" expanded="true" signature="5260:5987" ph="..." />
-                <marker date="1553262566884" expanded="true" signature="6044:6758" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9-1-result.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5-11-result.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7-3-MiniBatchStochasticGradientDescent.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="115" column="64" lean-forward="true" selection-start-line="115" selection-start-column="64" selection-end-line="115" selection-end-column="64" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-                <marker date="1553002012558" expanded="true" signature="186:191" ph="..." />
-                <marker date="1553002012558" expanded="true" signature="3178:3179" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5-11-ResNet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-604">
-              <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-                <marker date="1552553429279" expanded="true" signature="652:657" ph="..." />
-                <marker date="1552553429279" expanded="true" signature="1674:1679" ph="..." />
+                <marker date="1553500146580" expanded="true" signature="353:682" ph="..." />
               </folding>
             </state>
           </provider>
@@ -236,6 +189,7 @@
         <option value="$PROJECT_DIR$/5-5-LeNet.py" />
         <option value="$PROJECT_DIR$/9-1-result.txt" />
         <option value="$PROJECT_DIR$/9-1-ImageAugmentation.py" />
+        <option value="$PROJECT_DIR$/9-3-TargetDetectionAndBoundingBox.py" />
       </list>
     </option>
   </component>
@@ -245,7 +199,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -258,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -309,7 +263,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.9-1-ImageAugmentation">
+  <component name="RunManager" selected="Python.9-3-TargetDetectionAndBoundingBox">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mxnet_gpu" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -346,28 +300,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5-5-LeNet.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7-8-Adam" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mxnet_gpu" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7-8-Adam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,6 +352,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="9-3-TargetDetectionAndBoundingBox" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mxnet_gpu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9-3-TargetDetectionAndBoundingBox.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="mxnet" type="PythonConfigurationType" factoryName="Python">
       <module name="mxnet_gpu" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -444,19 +398,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.mxnet" />
-      <item itemvalue="Python.7-8-Adam" />
       <item itemvalue="Python.8-1-HybirdProgramming" />
       <item itemvalue="Python.9-1-ImageAugmentation" />
       <item itemvalue="Python.1" />
       <item itemvalue="Python.5-5-LeNet" />
+      <item itemvalue="Python.9-3-TargetDetectionAndBoundingBox" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9-3-TargetDetectionAndBoundingBox" />
         <item itemvalue="Python.9-1-ImageAugmentation" />
         <item itemvalue="Python.5-5-LeNet" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.8-1-HybirdProgramming" />
-        <item itemvalue="Python.7-8-Adam" />
       </list>
     </recent_temporary>
   </component>
@@ -484,13 +438,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="top" x="0" y="0" width="193" height="847" id="Documentation" order="0" side_tool="true" weight="0.31200898" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.16754478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24973656" />
       <window_info id="Favorites" order="2" sideWeight="0.5010846" side_tool="true" weight="0.10590095" />
-      <window_info id="SciView" order="3" weight="0.3240253" />
+      <window_info id="SciView" order="3" weight="0.33719704" />
       <window_info id="Database" order="4" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
@@ -541,13 +494,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/Tools/Anaconda3/envs/mxnet_gpu/Lib/site-packages/mxnet/ndarray/gen_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2849" lean-forward="true" selection-start-line="2849" selection-end-line="2849" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5-3-MultiChannel.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -733,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1606">
           <caret line="78" column="10" selection-end-line="78" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -743,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1474">
           <caret line="72" column="53" selection-start-line="72" selection-start-column="53" selection-end-line="72" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,14 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1553069697540" expanded="true" signature="167:223" ph="..." />
-            <marker date="1553069697540" expanded="true" signature="251:256" ph="..." />
-            <marker date="1553069697540" expanded="true" signature="487:492" ph="..." />
-            <marker date="1553069697540" expanded="true" signature="1260:1265" ph="..." />
-            <marker date="1553069697540" expanded="true" signature="1467:1472" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -768,11 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1408">
           <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1553064131790" expanded="true" signature="167:203" ph="..." />
-            <marker date="1553064131790" expanded="true" signature="249:254" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,17 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="5" selection-start-line="5" selection-end-line="14" />
-          <folding>
-            <marker date="1552998313107" expanded="true" signature="405:410" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="533:583" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="605:610" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="696:796" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="1163:1164" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="1163:1168" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="1243:1301" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="2788:2793" ph="..." />
-            <marker date="1552998313107" expanded="true" signature="2788:3078" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -798,13 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1386">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1552654397423" expanded="true" signature="102:107" ph="..." />
-            <marker date="1552654397423" expanded="true" signature="267:272" ph="..." />
-            <marker date="1552654397423" expanded="true" signature="1226:1306" ph="..." />
-            <marker date="1552654397423" expanded="true" signature="1435:1440" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,9 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <marker date="1553136090280" expanded="true" signature="137:802" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -825,11 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" selection-start-line="21" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <marker date="1553087167273" expanded="true" signature="83:88" ph="..." />
-            <marker date="1553087167273" expanded="true" signature="394:399" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -861,17 +762,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5-11-result.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5-11-ResNet.py">
+    <entry file="file://$PROJECT_DIR$/1.py" />
+    <entry file="file://$PROJECT_DIR$/9-1-ImageAugmentation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-604">
-          <caret line="67" column="10" lean-forward="true" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+        <state relative-caret-position="3718">
+          <caret line="174" column="54" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
           <folding>
-            <element signature="e#0#42#0" expanded="true" />
-            <marker date="1552553429279" expanded="true" signature="652:657" ph="..." />
-            <marker date="1552553429279" expanded="true" signature="1674:1679" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1553262566884" expanded="true" signature="349:354" ph="..." />
+            <marker date="1553262566884" expanded="true" signature="1908:1986" ph="..." />
+            <marker date="1553262566884" expanded="true" signature="2024:2029" ph="..." />
+            <marker date="1553262566884" expanded="true" signature="5260:5987" ph="..." />
           </folding>
         </state>
       </provider>
@@ -883,39 +784,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9-1-ImageAugmentation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="174" column="54" lean-forward="true" selection-start-line="174" selection-start-column="54" selection-end-line="174" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1553262566884" expanded="true" signature="349:354" ph="..." />
-            <marker date="1553262566884" expanded="true" signature="1908:1986" ph="..." />
-            <marker date="1553262566884" expanded="true" signature="2024:2029" ph="..." />
-            <marker date="1553262566884" expanded="true" signature="5260:5987" ph="..." />
-            <marker date="1553262566884" expanded="true" signature="6044:6758" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/5-11-result.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.py">
+    <entry file="file://$PROJECT_DIR$/5-11-ResNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="1408">
+          <caret line="67" column="10" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
+            <marker date="1552553429279" expanded="true" signature="652:657" ph="..." />
+            <marker date="1552553429279" expanded="true" signature="1674:1679" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7-3-MiniBatchStochasticGradientDescent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="115" column="64" lean-forward="true" selection-start-line="115" selection-start-column="64" selection-end-line="115" selection-end-column="64" />
+        <state relative-caret-position="201">
+          <caret line="102" column="10" lean-forward="true" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
             <marker date="1553002012558" expanded="true" signature="186:191" ph="..." />
             <marker date="1553002012558" expanded="true" signature="3178:3179" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-3-TargetDetectionAndBoundingBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="65" selection-start-line="18" selection-start-column="65" selection-end-line="18" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1553500146580" expanded="true" signature="353:682" ph="..." />
           </folding>
         </state>
       </provider>
